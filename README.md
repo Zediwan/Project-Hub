@@ -10,39 +10,87 @@ Welcome to my personal project hub. This repository is a centralized place to or
 
 ---
 
-## 🚀 Current Projects by Category
+## 🚀 All Projects by Category
 
-# 📋 Project List
+### 🧬 Biological & Life Simulations
+- Evolution Simulation
+- DNA Simulation (genotype/phenotype, alleles, reproduction types)
+- Bacteria Simulation
+- Plant Simulation
+- Single & Multicellular Simulation
+- Infection Simulation with Neural Agents
+- Speciation Project
+- Dynastie Tracking Project (entity lineage)
+- Cellular Automata Project
+- Growing Neural Cellular Automata
+- Growing Shapes from DNA Sequences
+- Fungus Simulation Project
+- Pheromone Simulation Project
+- Conway’s Game of Life Project ✅
+- Wireworld Simulation Project
 
-## 🔬 Simulations
-- [ ] Evolution Simulation
-- [ ] Infection-Sim
-- [ ] SimCorp
+### 🌍 World & Environment Simulations
+- Planet Simulation
+- Gravity Simulation
+- Weather Simulation
+- Procedural Terrain Generation
+- Procedural World Generation
+- Procedural Dungeon Generation
+- Infinite World Generation & Chunking Project
+- ChunkingFeature
+- World Generation System
 
-## 🧠 AI & Neural Networks
-- [ ] Neural Network Library
-- [ ] Pokerface
-- [ ] Neural MMO-Type Project
+### 🧠 AI & Neural Networks
+- Neural Network Project
+- Real-time Learning Neural Network
+- NEAT-Type Realtime Project
+- Agent-Based Problem Solving
+- Imposter-Based AI vs AI Game Simulation
+- Neural MMO-Type Project
+- Neural Network Library
+- Neural Network Visualizer Project
+- Heatmap Generation
+- Personal Voice Assistant Project
+- Explore & Customize: sequential_social_dilemma_games
+- Explore & Extend: Grid Project like MiniGrid
 
-## 🎮 Games
-- [ ] LifeRPG
-- [ ] Toilet Pissoir Game
-- [ ] Pong Game of Life
-- [ ] Tetris Game of Life
-- [ ] Blackjack
-- [ ] tan(x) – Math Tank Game
+### 🎮 Game Projects
+- Roguelike Game
+- RPG Game
+- Medieval Dynasty Game
+- Sports Game
+- ECS Project
+- Markov Junior Project
+- Wave Function Collapse Project
+- Blackjack Programming Project
+- tan(x) – Math Tank Game
+- Pong Game of Life
+- Tetris Game of Life
+- Dungeons & Dragons-Inspired Simulation Project
+- LifeRPG Project
+- Toilet Pissoir Game
 
-## 🌍 World Systems
-- [ ] ChunkingFeature
-- [ ] ZoomFeature
-- [ ] World Generation System
+### 🧰 Developer Tools & Utilities
+- Test Generator Tool (WPF-based)
+- Logger Learning Project
+- Console-First UI Project
+- Installer & Desktop App Project
+- Web Scraping Project
+- Dynamic Settings Inspector Project
+- Async & Threading Playground Project
+- Loading Bar / Progress Indicator Project
 
-## ⚙️ Developer Tools
-- [ ] Test Generator
-- [ ] Logger Project
-- [ ] Console UI Project
-- [ ] Async Playground
-- [ ] Dynamic Settings Inspector
+### 🗃️ System Architecture & Persistence
+- Database Learning Project
+- Persistent User Settings & Save-State Project
+
+### 📋 Personal Projects & Life Tools
+- Habit Tracker Project
+- LifeHub / Personal GitHub OS Project
+
+### 📊 Meta & Visual Tools
+- ZoomFeature (2D map zoom + minimap)
+- Repography GitHub Integration
 
 ---
 
