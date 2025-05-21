@@ -49,7 +49,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] Neural Network Visualizer Project
 - [ ] Heatmap Generation
 - [ ] Personal Voice Assistant Project
-- [ ] Explore & Customize: sequential_social_dilemma_games
+- [ ] [(Sequential) Social Dilemma Games](ideas/social-dilemma-games.md)
 - [ ] Explore & Extend: Grid Project like MiniGrid
 - [ ] [Pokerface](https://github.com/Zediwan/Pokerface)
 
@@ -85,7 +85,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 
 ### 📋 Personal Projects & Life Tools
 - [ ] Habit Tracker Project
-- [ ] LifeHub / Personal GitHub OS Project
+- [ ] [LifeHub / Personal GitHub OS Project](ideas/lifehub.md)
 
 ### 📊 Meta & Visual Tools
 - [ ] [ZoomFeature](https://github.com/Zediwan/ZoomFeature) (2D map zoom + minimap)
