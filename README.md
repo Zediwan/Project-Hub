@@ -8,8 +8,6 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - `archive/` – Completed or paused projects
 - `templates/` – Templates for new ideas
 
----
-
 ## 🚀 All Projects by Category
 
 ### 🧬 Biological & Life Simulations
@@ -92,7 +90,23 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] ZoomFeature (2D map zoom + minimap)
 - [ ] Repography GitHub Integration
 
----
+### 🌐 Social, Economic & Civic Simulations
+- [ ]  Economic Simulation
+- [ ]  Voting Simulation
+
+### 🎨 Visuals & Procedural Art
+- [ ]  Procedural Animation Project
+- [ ]  Procedural Body Generation Project
+- [ ]  Moebius Style Filter Project
+- [ ]  Realtime Graphing Project
+
+### 🧪 Methodology & Architecture
+- [ ]  Test Driven Development Project
+- [ ]  Code by Contract Project
+- [ ]  Work on eCamp3 on GitHub
+
+### 🐜 Other Biological Simulations
+- [ ]  Ant Simulation Project
 
 ## 🧰 Usage Tips
 - Use `ideas/` to expand individual project outlines.
