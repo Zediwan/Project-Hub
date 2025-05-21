@@ -28,6 +28,7 @@ Generate dungeons using algorithms like BSP, cellular automata, or Wave Function
 ### Mine
 - [World Generator](world-generator.md)
 - Roguelike Game
+- [Wave Function Collapse Project](ideas/wave-function-collapse.md)
 
 ### Others
 - See links above
