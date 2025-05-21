@@ -16,7 +16,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] Bacteria Simulation
 - [ ] Plant Simulation
 - [ ] Single & Multicellular Simulation
-- [ ] [Infection Simulation with Neural Agents](infection-simulation.md)
+- [ ] [Infection Simulation with Neural Agents](ideas/infection-simulation.md)
 - [ ] Speciation Project
 - [ ] Dynastie Tracking Project (entity lineage)
 - [ ] Cellular Automata Project
@@ -30,7 +30,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 ### 🌍 World & Environment Simulations
 - [ ] Planet Simulation
 - [ ] Gravity Simulation
-- [ ] [Weather Simulation](https://github.com/Zediwan/PyWeatherSim)
+- [ ] Weather Simulation [repo](https://github.com/Zediwan/PyWeatherSim)
 - [ ] [Procedural Terrain Generation](ideas/terrain-generator.md)
 - [ ] [Procedural World Generation](ideas/world-generator.md)
 - [ ] [Procedural Dungeon Generation](ideas/dungeon-generator.md)
@@ -41,7 +41,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 ### 🧠 AI & Neural Networks
 - [ ] Neural Network Project
 - [ ] Real-time Learning Neural Network
-- [ ] [NEAT-Type Realtime Project](https://github.com/Zediwan/BioRT-NEAT)
+- [ ] NEAT-Type Realtime Project [repo](https://github.com/Zediwan/BioRT-NEAT)
 - [ ] Agent-Based Problem Solving
 - [ ] Imposter-Based AI vs AI Game Simulation
 - [ ] Neural MMO-Type Project
@@ -51,8 +51,8 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] Personal Voice Assistant Project
 - [ ] [(Sequential) Social Dilemma Games](ideas/social-dilemma-games.md)
 - [ ] Explore & Extend: Grid Project like MiniGrid
-- [ ] [Pokerface](https://github.com/Zediwan/Pokerface)
-- [ ] [Neural Network Agent Driving Simulation](driving-simulation.md)
+- [ ] Poker playing & realtime learning AI [repo](https://github.com/Zediwan/Pokerface)
+- [ ] [Neural Network Agent Driving Simulation](ideas/driving-simulation.md)
 
 ### 🎮 Game Projects
 - [ ] Roguelike Game
@@ -60,7 +60,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] Medieval Dynasty Game
 - [ ] Sports Game
 - [ ] ECS Project
-- [ ] [Markov Junior](https://github.com/mxgmn/MarkovJunior) Project
+- [ ] Markov Junior Project [inspiration]((https://github.com/mxgmn/MarkovJunior))
 - [ ] [Wave Function Collapse Project](ideas/wave-function-collapse.md)
 - [ ] Blackjack Programming Project
 - [ ] tan(x) – Math Tank Game
@@ -71,7 +71,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] Toilet Pissoir Game
 
 ### 🧰 Developer Tools & Utilities
-- [ ] [Test Generator Tool](https://github.com/Zediwan/TestGenerator) (WPF-based)
+- [ ] Test Generator Tool (WPF-based) [repo](https://github.com/Zediwan/TestGenerator)
 - [ ] Logger Learning Project
 - [ ] Console-First UI Project
 - [ ] Installer & Desktop App Project
@@ -89,11 +89,11 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] [LifeHub / Personal GitHub OS Project](ideas/lifehub.md)
 
 ### 📊 Meta & Visual Tools
-- [ ] [ZoomFeature](https://github.com/Zediwan/ZoomFeature) (2D map zoom + minimap)
+- [ ] ZoomFeature (2D map zoom + minimap) [repo](https://github.com/Zediwan/ZoomFeature)
 - [ ] Repography GitHub Integration
 
 ### 🌐 Social, Economic & Civic Simulations
-- [ ]  [Economic Simulation](https://github.com/Zediwan/SimCorp)
+- [ ]  Economic Simulation [repo](https://github.com/Zediwan/SimCorp)
 - [ ]  Voting Simulation
 
 ### 🎨 Visuals & Procedural Art
