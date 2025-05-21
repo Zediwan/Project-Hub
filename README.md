@@ -11,12 +11,12 @@ Welcome to my personal project hub. This repository is a centralized place to or
 ## 🚀 All Projects by Category
 
 ### 🧬 Biological & Life Simulations
-- [ ] Evolution Simulation
+- [ ] [Evolution Simulation](https://github.com/Zediwan/EvoSim)
 - [ ] DNA Simulation (genotype/phenotype, alleles, reproduction types)
 - [ ] Bacteria Simulation
 - [ ] Plant Simulation
 - [ ] Single & Multicellular Simulation
-- [ ] Infection Simulation with Neural Agents
+- [ ] [Infection Simulation with Neural Agents](https://github.com/Zediwan/Infection-Sim)
 - [ ] Speciation Project
 - [ ] Dynastie Tracking Project (entity lineage)
 - [ ] Cellular Automata Project
@@ -24,13 +24,13 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] Growing Shapes from DNA Sequences
 - [ ] Fungus Simulation Project
 - [ ] Pheromone Simulation Project
-- [X] Conway’s Game of Life Project
+- [X] [Conway’s Game of Life Project](https://github.com/Zediwan/MosersGameOfLife)
 - [ ] Wireworld Simulation Project
 
 ### 🌍 World & Environment Simulations
 - [ ] Planet Simulation
 - [ ] Gravity Simulation
-- [ ] Weather Simulation
+- [ ] [Weather Simulation](https://github.com/Zediwan/PyWeatherSim)
 - [ ] Procedural Terrain Generation
 - [ ] Procedural World Generation
 - [ ] Procedural Dungeon Generation
@@ -41,7 +41,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 ### 🧠 AI & Neural Networks
 - [ ] Neural Network Project
 - [ ] Real-time Learning Neural Network
-- [ ] NEAT-Type Realtime Project
+- [ ] [NEAT-Type Realtime Project](https://github.com/Zediwan/BioRT-NEAT)
 - [ ] Agent-Based Problem Solving
 - [ ] Imposter-Based AI vs AI Game Simulation
 - [ ] Neural MMO-Type Project
@@ -51,6 +51,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] Personal Voice Assistant Project
 - [ ] Explore & Customize: sequential_social_dilemma_games
 - [ ] Explore & Extend: Grid Project like MiniGrid
+- [ ] [Pokerface](https://github.com/Zediwan/Pokerface)
 
 ### 🎮 Game Projects
 - [ ] Roguelike Game
@@ -58,7 +59,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] Medieval Dynasty Game
 - [ ] Sports Game
 - [ ] ECS Project
-- [ ] Markov Junior Project
+- [ ] [Markov Junior](https://github.com/mxgmn/MarkovJunior) Project
 - [ ] Wave Function Collapse Project
 - [ ] Blackjack Programming Project
 - [ ] tan(x) – Math Tank Game
@@ -69,7 +70,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] Toilet Pissoir Game
 
 ### 🧰 Developer Tools & Utilities
-- [ ] Test Generator Tool (WPF-based)
+- [ ] [Test Generator Tool](https://github.com/Zediwan/TestGenerator) (WPF-based)
 - [ ] Logger Learning Project
 - [ ] Console-First UI Project
 - [ ] Installer & Desktop App Project
@@ -87,11 +88,11 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] LifeHub / Personal GitHub OS Project
 
 ### 📊 Meta & Visual Tools
-- [ ] ZoomFeature (2D map zoom + minimap)
+- [ ] [ZoomFeature](https://github.com/Zediwan/ZoomFeature) (2D map zoom + minimap)
 - [ ] Repography GitHub Integration
 
 ### 🌐 Social, Economic & Civic Simulations
-- [ ]  Economic Simulation
+- [ ]  [Economic Simulation](https://github.com/Zediwan/SimCorp)
 - [ ]  Voting Simulation
 
 ### 🎨 Visuals & Procedural Art
@@ -103,7 +104,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 ### 🧪 Methodology & Architecture
 - [ ]  Test Driven Development Project
 - [ ]  Code by Contract Project
-- [ ]  Work on eCamp3 on GitHub
+- [ ]  Contribute to [eCamp3](https://github.com/ecamp/ecamp3)
 
 ### 🐜 Other Biological Simulations
 - [ ]  Ant Simulation Project
