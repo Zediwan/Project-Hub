@@ -22,6 +22,12 @@ A modern Game of Life implementation focused on clean simulation logic, performa
 ## 🌐 Useful Links and Inspirations
 - https://github.com/Zediwan/MosersGameOfLife
 
+## 🧩 Useful Projects
+### Mine
+
+### Others
+- [Colorful Life by Jaxry](https://github.com/jaxry/colorful-life)
+
 ## 📄 ROADMAP.md
 
 ## 📘 README.md
