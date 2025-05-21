@@ -32,9 +32,9 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] Gravity Simulation
 - [ ] [Weather Simulation](https://github.com/Zediwan/PyWeatherSim)
 - [ ] Procedural Terrain Generation
-- [ ] Procedural World Generation
-- [ ] Procedural Dungeon Generation
-- [ ] Infinite World Generation & Chunking Project
+- [ ] [Procedural World Generation](ideas/world-generator.md)
+- [ ] [Procedural Dungeon Generation](ideas/dungeon-generator.md)
+- [ ] Infinite World Generation
 - [ ] ChunkingFeature
 - [ ] World Generation System
 
@@ -52,6 +52,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] [(Sequential) Social Dilemma Games](ideas/social-dilemma-games.md)
 - [ ] Explore & Extend: Grid Project like MiniGrid
 - [ ] [Pokerface](https://github.com/Zediwan/Pokerface)
+- [ ] [Neural Network Agent Driving Simulation](driving-simulation.md)
 
 ### 🎮 Game Projects
 - [ ] Roguelike Game
