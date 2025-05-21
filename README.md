@@ -31,7 +31,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] Planet Simulation
 - [ ] Gravity Simulation
 - [ ] [Weather Simulation](https://github.com/Zediwan/PyWeatherSim)
-- [ ] Procedural Terrain Generation
+- [ ] [Procedural Terrain Generation](ideas/terrain-generator.md)
 - [ ] [Procedural World Generation](ideas/world-generator.md)
 - [ ] [Procedural Dungeon Generation](ideas/dungeon-generator.md)
 - [ ] Infinite World Generation
