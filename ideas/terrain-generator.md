@@ -27,6 +27,7 @@ Generate 2D or 3D terrains using noise functions, erosion, heightmaps, and biome
 ### Mine
 - [World Generator](world-generator.md)
 - Roguelike Game
+- [Wave Function Collapse Project](ideas/wave-function-collapse.md)
 
 ### Others
 - [noise-rs by Razaekel](https://github.com/Razaekel/noise-rs)
