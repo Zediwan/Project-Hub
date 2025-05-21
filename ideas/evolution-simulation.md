@@ -1,12 +1,14 @@
 # 🧪 Evolution Simulation
 
 ## 🔍 Overview
-A cellular evolution simulation with organisms and DNA. Originally built in Python and now ported to C# and WPF to allow UI integration and more modular control.
+A cellular evolution simulation with organisms and DNA.
+Big focus on emergent behavior.
 
 ## 🔧 Core Features
 - Procedural organism evolution
 - DNA-based trait control
 - Modular simulation loop with UI controls
+- Neural Networks for organisms
 
 ## 🧠 Learning Objectives
 - Biological simulation design
