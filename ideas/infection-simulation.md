@@ -23,6 +23,13 @@ Simulates infection spreading across agents powered by neural networks, influenc
 ## 🌐 Useful Links and Inspirations
 - https://github.com/Zediwan/Infection-Sim
 
+## 🧩 Useful Projects
+### Mine
+
+### Others
+- [Epidemic Simulation pygame by dfpena](https://github.com/dfpena/epidemic-simulation-pygame)
+- [InfectionSim by htwaijry](https://github.com/htwaijry/InfectionSim)
+
 ## 📄 ROADMAP.md
 
 ## 📘 README.md
