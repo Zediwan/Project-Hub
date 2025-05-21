@@ -20,6 +20,15 @@ Brief description of the project idea and goals.
 - Link 1
 - Link 2
 
+## 🧩 Useful Projects
+### Mine
+- Related Project 1
+- Related Project 2
+
+### Others
+- Related Project 1
+- Related Project 2
+
 ## 📄 ROADMAP.md
 
 ## 📘 README.md
