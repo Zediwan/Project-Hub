@@ -41,7 +41,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 ### 🧠 AI & Neural Networks
 - [ ] Neural Network Project
 - [ ] Real-time Learning Neural Network
-- [ ] NEAT-Type Realtime Project [repo](https://github.com/Zediwan/BioRT-NEAT)
+- [ ] NEAT-Type Realtime Project [repo](https://github.com/Zediwan/BioRT-NEAT) [inspiration](https://github.com/CodeReclaimers/neat-python)
 - [ ] Agent-Based Problem Solving
 - [ ] Imposter-Based AI vs AI Game Simulation
 - [ ] Neural MMO-Type Project
