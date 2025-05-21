@@ -1,4 +1,4 @@
-# 🧪 Conways Game Of Life Project
+# 🧪 Conways Game Of Life
 
 ## 🔍 Overview
 A modern Game of Life implementation focused on clean simulation logic, performance, and extensibility.
