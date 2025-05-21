@@ -25,6 +25,7 @@ Create large-scale continuous or discrete worlds, continents, or universes using
 ## 🧩 Useful Projects
 ### Mine
 - Roguelike Game
+- [Wave Function Collapse Project](ideas/wave-function-collapse.md)
 
 ### Others
 - [Mapgen2 by Amitp](https://github.com/amitp/mapgen2)
