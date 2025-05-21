@@ -61,7 +61,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] Sports Game
 - [ ] ECS Project
 - [ ] [Markov Junior](https://github.com/mxgmn/MarkovJunior) Project
-- [ ] Wave Function Collapse Project
+- [ ] [Wave Function Collapse Project](ideas/wave-function-collapse.md)
 - [ ] Blackjack Programming Project
 - [ ] tan(x) – Math Tank Game
 - [ ] Pong Game of Life
