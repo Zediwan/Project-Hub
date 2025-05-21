@@ -25,6 +25,14 @@ Big focus on emergent behavior.
 ## 🌐 Useful Links and Inspirations
 - https://github.com/Zediwan/EvoSim
 
+## 🧩 Useful Projects
+### Mine
+- [DNA Simulator](https://github.com/Zediwan/Project-Hub/blob/main/ideas/dna-simulator.md)
+
+### Others
+- [Shorelark by Patryk27](https://github.com/Patryk27/shorelark)
+- [LifeEngine by MaxRobinsonTheGreat](https://github.com/MaxRobinsonTheGreat/LifeEngine)
+
 ## 📄 ROADMAP.md
 Already created
 
