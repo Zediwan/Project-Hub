@@ -16,8 +16,15 @@ Brief description of the project idea and goals.
 ## 💡 Stretch Goals
 - Optional advanced features or integrations
 
+## ROADMAP.md
+
+## README.md
+
 ## ✅ Progress
 - [ ] Planned
 - [ ] Started
+  - [ ] Repository created
+  - [ ] README.md created
+  - [ ] ROADMAP.md created
 - [ ] Prototype
 - [ ] Completed
