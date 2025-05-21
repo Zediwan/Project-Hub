@@ -87,6 +87,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 ### 📋 Personal Projects & Life Tools
 - [ ] Habit Tracker Project
 - [ ] [LifeHub / Personal GitHub OS Project](ideas/lifehub.md)
+- [ ] [Calendar Software](ideas/calendar-software.md)
 
 ### 📊 Meta & Visual Tools
 - [ ] ZoomFeature (2D map zoom + minimap) [repo](https://github.com/Zediwan/ZoomFeature)
