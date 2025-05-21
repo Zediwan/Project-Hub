@@ -16,9 +16,13 @@ Brief description of the project idea and goals.
 ## 💡 Stretch Goals
 - Optional advanced features or integrations
 
-## ROADMAP.md
+## 🌐 Useful Links and Inspirations
+- Link 1
+- Link 2
 
-## README.md
+## 📄 ROADMAP.md
+
+## 📘 README.md
 
 ## ✅ Progress
 - [ ] Planned
