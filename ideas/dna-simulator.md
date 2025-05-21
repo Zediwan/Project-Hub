@@ -23,6 +23,11 @@ A biologically inspired simulation focusing on genotype/phenotype expressions, a
 ## 🌐 Useful Links and Inspirations
 - https://en.wikipedia.org/wiki/Genetic_algorithm
 
+## 🧩 Useful Projects
+### Mine
+
+### Others
+
 ## 📄 ROADMAP.md
 
 ## 📘 README.md
