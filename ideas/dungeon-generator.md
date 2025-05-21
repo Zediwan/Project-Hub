@@ -1,4 +1,4 @@
-# 🧪 Procedural Dungeon Generation
+# 🧪 Procedural Dungeon Generator
 
 ## 🔍 Overview
 Generate dungeons using algorithms like BSP, cellular automata, or Wave Function Collapse. Useful for roguelikes and adventure games.
@@ -26,7 +26,7 @@ Generate dungeons using algorithms like BSP, cellular automata, or Wave Function
 
 ## 🧩 Useful Projects
 ### Mine
-- World Generation System
+- [World Generator](world-generator.md)
 - Roguelike Game
 
 ### Others
