@@ -11,12 +11,12 @@ Welcome to my personal project hub. This repository is a centralized place to or
 ## 🚀 All Projects by Category
 
 ### 🧬 Biological & Life Simulations
-- [ ] [Evolution Simulation](https://github.com/Zediwan/EvoSim)
-- [ ] DNA Simulation (genotype/phenotype, alleles, reproduction types)
+- [ ] [Evolution Simulation](ideas/conways-game-of-life.md)
+- [ ] [DNA Simulation](ideas/dna-simulator.md) (genotype/phenotype, alleles, reproduction types)
 - [ ] Bacteria Simulation
 - [ ] Plant Simulation
 - [ ] Single & Multicellular Simulation
-- [ ] [Infection Simulation with Neural Agents](https://github.com/Zediwan/Infection-Sim)
+- [ ] [Infection Simulation with Neural Agents](infection-simulation.md)
 - [ ] Speciation Project
 - [ ] Dynastie Tracking Project (entity lineage)
 - [ ] Cellular Automata Project
@@ -24,7 +24,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] Growing Shapes from DNA Sequences
 - [ ] Fungus Simulation Project
 - [ ] Pheromone Simulation Project
-- [X] [Conway’s Game of Life Project](https://github.com/Zediwan/MosersGameOfLife)
+- [X] [Conway’s Game of Life Project](ideas/conways-game-of-life.md)
 - [ ] Wireworld Simulation Project
 
 ### 🌍 World & Environment Simulations
