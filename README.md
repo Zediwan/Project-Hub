@@ -45,7 +45,7 @@ Welcome to my personal project hub. This repository is a centralized place to or
 - [ ] Agent-Based Problem Solving
 - [ ] Imposter-Based AI vs AI Game Simulation
 - [ ] Neural MMO-Type Project
-- [ ] Neural Network Library
+- [ ] [Neural Network Library](ideas/nn-library-package.md)
 - [ ] Neural Network Visualizer Project
 - [ ] Heatmap Generation
 - [ ] Personal Voice Assistant Project
