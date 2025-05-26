@@ -36,6 +36,7 @@ A modular, extensible neural network library for C#/.NET projects. Designed for 
 - Advanced serialization formats (e.g., JSON, XML, binary) and versioning
 
 ## 🌐 Useful Links and Inspirations
+- [Synapse.NET](https://github.com/Zediwan/Synapse.NET)
 - [Microsoft ML.NET](https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet)
 - [Accord.NET](https://github.com/accord-net/framework)
 - [Neataptic (JS NEAT library, for inspiration)](https://wagenaartje.github.io/neataptic/)
