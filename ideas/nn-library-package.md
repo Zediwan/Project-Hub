@@ -63,10 +63,10 @@ See ROADMAP.md for planned features and milestones.
 See README.md for usage, installation, and API documentation.
 
 ## ✅ Progress
-- [x] Planned
-- [ ] Started
-  - [ ] [Repository](https://github.com/Zediwan/Synapse.NET) created
-  - [ ] [README.md](https://github.com/Zediwan/Synapse.NET/blob/master/README.md) created
-  - [ ] [ROADMAP.md](https://github.com/Zediwan/Synapse.NET/blob/master/ROADMAP.md) created
+- [X] Planned
+- [X] Started
+  - [X] [Repository](https://github.com/Zediwan/Synapse.NET) created
+  - [X] [README.md](https://github.com/Zediwan/Synapse.NET/blob/master/README.md) created
+  - [X] [ROADMAP.md](https://github.com/Zediwan/Synapse.NET/blob/master/ROADMAP.md) created
 - [ ] Prototype
 - [ ] Completed
